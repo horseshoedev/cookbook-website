@@ -1,0 +1,252 @@
+/*Nav bar Styles*/
+ #nav-home {
+     padding: 0 15px;
+}
+ ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+}
+/*Login Stlye*/
+ #login-form{
+     padding-bottom: 30px;
+}
+ #login-form{
+     padding-bottom: 30px;
+}
+/*Text Styles*/
+ .center {
+     text-align: center;
+}
+ .align-right{
+     text-align: right;
+}
+/*Images Styles*/
+/*Makes images smaller*/
+ .thumbnail {
+     height: 320px;
+     width: 320px;
+     padding: 10px;
+     border-radius: 25px;
+}
+ .thumbnail-center {
+     height: 85%;
+     /*width: 320px;*/
+     padding: 10px;
+     border-radius: 25px;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width:85%;
+}
+/*Makes images smaller and float right*/
+ .thumbnail-right {
+     height: 320px;
+     width: 320px;
+     padding: 10px;
+     border-radius: 25px;
+     float:right;
+}
+/*Makes images smaller and float left*/
+ .thumbnail-left {
+     height: 320px;
+     width: 320px;
+     padding: 10px;
+     border-radius: 25px;
+     float:left;
+}
+ .image {
+     max-height: 45%;
+     max-width: 45%;
+     margin-left: auto;
+     margin-right: auto;
+     border-radius: 25px;
+}
+ .image-center {
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 50%;
+}
+/*makes graphs responsive*/
+ img {
+     width: 100%;
+     height: auto;
+}
+/*Centers Div*/
+ .center-div {
+     margin: auto;
+     width: 50%;
+     padding: 10px;
+}
+/*Clear fix for a floating element will flow around it.*/
+ .clearfix {
+     overflow: auto;
+}
+/*Footer Styles*/
+ .footer-image {
+     height: 50px;
+     width: 50px;
+     padding: 10px;
+}
+ .footer-text {
+     font-style: italic;
+}
+ .footer-white{
+     color: white;
+}
+ .float-right {
+     float: right;
+}
+ .float-left {
+     float: left;
+}
+/* Style the navigation menu */
+/* #myMenu {
+    */
+    /* list-style-type: none;
+    */
+    /* padding: 0;
+    */
+    /* margin: 0;
+    */
+    /*
+}
+*/
+/* Style the navigation links */
+/* #myMenu li a {
+    */
+    /* padding: 12px;
+    */
+    /* text-decoration: none;
+    */
+    /* color: black;
+    */
+    /* display: block */
+    /*
+}
+*/
+/* #myMenu li a:hover {
+    */
+    /* background-color: #eee;
+    */
+    /*
+}
+*/
+/* #myBtn:hover {
+    */
+    /* background-color: #555;
+    */
+    /* Add a dark-grey background on hover */
+    /*
+}
+*/
+/* .input-form {
+    */
+    /* width: 100%;
+    */
+    /*
+}
+*/
+/* .navbar-default {
+    */
+    /* background-image: none;
+    */
+    /* margin-bottom: 0;
+    */
+    /*
+}
+*/
+/* li a {
+    */
+    /* font-family: 'Roboto', sans-serif;
+    */
+    /*
+}
+*/
+/* .section-heading, #discipline-selector {
+    */
+    /* display: inline-block;
+    */
+    /* float: none;
+    */
+    /* margin: 0;
+    */
+    /*
+}
+*/
+/* .section-heading {
+    */
+    /* margin-bottom: 50px;
+    */
+    /*
+}
+*/
+/* #discipline-selector {
+    */
+    /* margin-left: 15px;
+    */
+    /*
+}
+*/
+/* .number-box {
+    */
+    /* margin-right: 75px;
+    */
+    /*
+}
+*/
+/* .number-box, .fa.fa-gender {
+    */
+    /* font-size: 30px;
+    */
+    /* font-weight: 500;
+    */
+    /*
+}
+*/
+/* .custom-chart {
+    */
+    /* margin-bottom: 40px;
+    */
+    /*
+}
+*/
+/* .section {
+    */
+    /* border-bottom: 1px solid #e6e6e6;
+    */
+    /* padding: 30px 0;
+    */
+    /*
+}
+*/
+/* .section-paragraph {
+    */
+    /* line-height: 1.2;
+    */
+    /*
+}
+*/
+/* .btn_small {
+    */
+    /* height: 24px;
+    */
+    /* width: 60px;
+    */
+    /* line-height: 24px;
+    */
+    /* margin: 5px 5px;
+    */
+    /* padding: 0 0.5em;
+    */
+    /*
+}
+*/
+/* .task_header {
+    */
+    /* margin-top: 5px;
+    */
+    /*
+}
+*/

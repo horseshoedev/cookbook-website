@@ -1,0 +1,57 @@
+{% extends 'base.html' %} {% block content %}
+
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-12">
+            <h1 class="center">{{page_title}}</h1>
+            <br>
+            <div class="row">
+
+                <div class="col-md-12">
+                    <div class="row">
+
+                        <div class="col-md-3">
+                        </div>
+
+                        <div class="col-md-6 center">
+                            <div class="form-group">
+
+                                <!--Flash Message-->
+                                <div class="container" style="min-height:100% width:80%">
+                                    {% with messages = get_flashed_messages() %} {% if messages %} {% for message in messages %} {{ message}} {% endfor %} {% endif %} {% endwith %} {% block body %}{% endblock %}
+                                </div>
+
+                                <form method=POST action="{{ url_for('login') }}" class="col-md-12">
+                                    <!--Username-->
+                                    <div class="form-group">
+                                        <label for="exampleInputEmail1">Username</label>
+                                        <input type="text" class="form-control" name="username" placeholder="Jdoe">
+                                    </div>
+                                    <!--Password-->
+                                    <div class="form-group">
+                                        <label for="exampleInputPassword1">Password</label>
+                                        <input type="password" class="form-control" name="pass" placeholder="*****">
+                                    </div>
+                                    <!--Submit-->
+                                    <div class="row">
+                                        <div class="input-field col s12">
+                                            <button type="submit" class="btn btn-primary green browser-default">login</button>
+
+                                        </div>
+                                    </div>
+                                </form>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-3">
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
