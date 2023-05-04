@@ -1,4 +1,4 @@
-# [Fitness Cookbook](https://cook-book-application.herokuapp.com/ "Milestone #3") 
+# [Fitness Cookbook]() 
 
 ### A website to help the hungry stay healthy and fit in the kitchen and in life. This site focuses on calories, popularity and cooking time so the user can get the recipe they need and start cooking right away.
 
@@ -158,37 +158,3 @@ I had trouble finding pictures that matched the recipes, so I used the best imag
 - The recipes I used are from the wonderful cookbook [The Ultimate Bodybuilding Cookbook](https://www.amazon.com/Ultimate-Bodybuilding-Cookbook-High-Impact-Stronger/dp/162315765X). I highly recommend it.
 
 - Specials Thanks to the student slack channels, my mentor and stack overflow.❤️
-
-## Mockups
-
-![Home_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Home_Web.png)
-
-![Home_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Home_Phone.png)
-
-![Add_Recipe_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Add_Recipe_Phone.png)
-
-![Add_Recipe_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Add_Recipe_Web.png)
-
-![Data_Page_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Data_Page_Phone.png)
-
-![Data_Page_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Data_Page_Web.png)
-
-![Login_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Login_Web.png)
-
-![Login_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Login_Phone.png)
-
-![Recipe_Name_Delete_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Delete_Phone.png)
-
-![Recipe_Name_Delete_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Delete_Web.png)
-
-![Recipe_Name_Edit_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Edit_Phone.png)
-
-![Recipe_Name_Edit_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Edit_Web.png)
-
-![Recipe_Name_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Phone.png)
-
-![Recipe_Name_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Recipe_Name_Web.png)
-
-![Recipes_Phone](https://cook-book-application.herokuapp.com/static/img/mockups/Recipes_Phone.png)
-
-![Recipes_Web](https://cook-book-application.herokuapp.com/static/img/mockups/Recipes_Web.png)
